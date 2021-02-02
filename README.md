@@ -3,7 +3,7 @@ Trying to detect the small thread of bank notes which is visible under UV light.
 # Dataset 
 For Dataset, We create a custom dataset. Then apply augmentation techniques.
 <img src="collage.jpg">
-#Result
+# Result
 <img src="results.png">
 # Detection Results
 <img src="1.png">
